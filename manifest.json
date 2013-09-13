@@ -1,8 +1,8 @@
 {
-  "name": "Jailbreak the Patriarchy",
+  "name": "Jailbreak the Media Monopoly",
   "version": "1.0.2",
   "manifest_version": 2,
-  "description": "Genderswaps your view of the web.",
+  "description": "Subverts the illusion of media diversity by replacing subsidiary names with names of the big parent corporations.",
   "background": {
     "page": "background.html"
   },
@@ -14,7 +14,7 @@
   ],
   "browser_action": {
     "default_icon": "icon19.png",
-    "default_title": "Toggle Patriarchy"
+    "default_title": "Toggle Illusion of Diversity"
   },
   "content_scripts": [
     {
