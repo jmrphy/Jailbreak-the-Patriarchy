@@ -1,6 +1,6 @@
 {
   "name": "Jailbreak the Media Monopoly",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "manifest_version": 2,
   "description": "Subverts the illusion of media diversity by replacing subsidiary names with names of the big parent corporations.",
   "background": {
