@@ -29,7 +29,7 @@ for page in pages:
 	soup = BeautifulSoup(page, "html.parser", parse_only=content)
 
 	# li holds subsidiary names
-	h2 = soup.find_all("li")
+	li = soup.find_all("li")
 	subsidiary = str(li[0].get_text())
 
 	#h2 has voting precinct.
