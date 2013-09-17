@@ -1,4 +1,9 @@
-### What is Jailbreak the Mass Media?
+
+<center>
+
+![icon](https://github.com/jmrphy/jailbreak_the_mass_media/blob/master/icon128.png?raw=true)
+
+</center>
 
 **Jailbreak the Mass Media** is an extension for the Google Chrome browser which disrupts the user's experience of the global-capitalist media landscape. A few huge multinational media corporations own hundreds of smaller media companies to create the illusion that many small and diverse outlets all compete to give the public a wide range of media options. **Jailbreak the Mass Media** destroys this illusion in your web browser by displaying the name of the large parent corporation *in the place of* wherever a small subsidiary name is supposed to appear.
 
