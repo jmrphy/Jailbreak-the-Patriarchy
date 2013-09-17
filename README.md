@@ -1,7 +1,7 @@
 
 <center>
 
-![icon](https://github.com/jmrphy/jailbreak_the_mass_media/blob/master/icon48.png)
+![icon](https://github.com/jmrphy/jailbreak_the_mass_media/blob/master/icon48.png?raw=false)
 
 </center>
 
