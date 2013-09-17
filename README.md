@@ -16,7 +16,7 @@ To see the list of subsidiaries accounted for, check the file "myscript.js". I w
 
 ### How to install:
 
-I want to increase the list of subsidiaries covered before I bother to upload this to the Chrome Web Store. But you can easily download and install the current version of **Jailbreak the Mass Media** right away:
+Before I upload this to the Chrome Web Store, I want to increase the list of subsidiaries covered. But for now you can easily download and install the current version of **Jailbreak the Mass Media** right away:
 
 1. Just download/unzip the file above.
 
