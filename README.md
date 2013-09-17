@@ -1,7 +1,7 @@
 
 <center>
 
-![icon](https://github.com/jmrphy/jailbreak_the_mass_media/blob/master/icon28.png)
+![icon](https://raw.github.com/jmrphy/jailbreak_the_mass_media/master/icon128.png)
 
 </center>
 
@@ -19,7 +19,7 @@ To see the list of subsidiaries accounted for, check the file "myscript.js". I w
 
 **Jailbreak the Mass Media** is a fork of ["Jailbreak the Patriarchy"](https://chrome.google.com/webstore/detail/jailbreak-the-patriarchy/fiidcfoaaciclafodoficaofidfencgd?hl=en-US&gl=US) by Danielle Sucher.
 
-### How to install:
+## How to install:
 
 Before I upload this to the Chrome Web Store, I want to increase the list of subsidiaries covered. But for now you can easily download and install the current version of **Jailbreak the Mass Media** right away:
 
@@ -29,11 +29,11 @@ Before I upload this to the Chrome Web Store, I want to increase the list of sub
 
 3. Click on "Load unpacked extension" and navigate to the folder "Jailbreak the Mass Media". Done.
 
-### How to use:
+## How to use:
 
 You now have a new little button in the top right corner of Chrome. When you see the image of a little TV, your browser is currently jailbreaking the media, revealing to you parent corporations wherever a website gives you bullshit front companies. Clicking the button will make it say "OFF" and will let you see all the bullshit front companies. Also borrowed from 
 
-### Known issues:
+## Known issues:
 
 * The main limitation is that I've barely made a dent in the total set of media fronts which are subsidiaries of larger corporations. If you want to help build this up, please let me know!
 
